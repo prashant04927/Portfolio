@@ -3,19 +3,19 @@ function Education() {
     {
       year: "2023 - Present",
       degree: "B.Tech in Computer Science",
-      college: "Your College Name",
+      college: "Shri Ramswaroop memorial college engineering and Managment",
       desc: "Currently pursuing B.Tech with focus on Java Full Stack Development."
     },
     {
       year: "2022",
-      degree: "12th (CBSE)",
-      college: "Your School Name",
+      degree: "12th (UP Board)",
+      college: "Pioneer Montessori Inter College",
       desc: "Completed Higher Secondary Education."
     },
     {
       year: "2020",
-      degree: "10th (CBSE)",
-      college: "Your School Name",
+      degree: "10th (UP Board)",
+      college: "Pioneer Montessori Inter College",
       desc: "Completed Secondary Education."
     }
   ];
