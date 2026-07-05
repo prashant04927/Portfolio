@@ -13,7 +13,7 @@ function Social() {
       </a>
 
       <a
-        href="https://linkedin.com/"
+        href="https://www.linkedin.com/in/prashant-singh-605b54379?utm_source=share_via&utm_content=profile&utm_medium=member_android"
         target="_blank"
         className="text-3xl hover:text-blue-500 duration-300"
       >
@@ -21,7 +21,7 @@ function Social() {
       </a>
 
       <a
-        href="https://instagram.com/"
+        href="https://www.instagram.com/prashant_singh_091?igsh=MTVjYWtncmZ4MG8xMw=="
         target="_blank"
         className="text-3xl hover:text-pink-500 duration-300"
       >
